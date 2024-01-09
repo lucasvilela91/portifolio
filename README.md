@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-https://github.com/lucasvilela91/portifolio/issues/1#issue-2072257153
+![image] (https://github.com/lucasvilela91/portifolio/issues/1#issue-2072257153)
 
 ## Ferramentas utilizadas:
 
