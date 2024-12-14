@@ -1,4 +1,4 @@
-Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portfólio.
 
 * Nesste curso aprendi muito sobre flex-box e css.
 
